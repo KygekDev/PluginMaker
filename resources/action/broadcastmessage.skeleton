@@ -1,1 +1,1 @@
-        $player->getServer()->broadcastMessage({%message});
+        $player->getServer()->broadcastMessage("{%message}");
